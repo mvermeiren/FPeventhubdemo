@@ -1,0 +1,7 @@
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\bin\Debug\GatewayGenerator.exe.config
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\bin\Debug\GatewayGenerator.exe
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\bin\Debug\GatewayGenerator.pdb
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\obj\Debug\GatewayGenerator.exe
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\obj\Debug\GatewayGenerator.pdb
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\bin\Debug\Microsoft.ServiceBus.dll
+D:\Axxes\Projects\GatewayGenerator\GatewayGenerator\bin\Debug\Microsoft.ServiceBus.xml
